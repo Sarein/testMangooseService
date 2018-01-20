@@ -1,7 +1,7 @@
 #ifndef DOWNLOAD_MODE_H
 #define DOWNLOAD_MODE_H
 
-#include <kompexSQLiteWraper/inc/KompexSQLiteDatabase.h>
+#include <KompexSQLiteDatabase.h>
 
 class DownloadMode
 {
